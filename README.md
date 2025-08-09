@@ -7,13 +7,13 @@ The tasks span **beginner to advanced levels**, covering problem-solving, Java f
 
 ## 📂 Project Overview
 
-| #  | Project Name | Level | Key Concepts | Tech Stack | Link |
-|----|--------------|-------|--------------|------------|------|
-| 1️⃣ | Text-Based Game | Beginner | Conditional statements, user input, game logic | Java / Python | [View Code](#1-text-based-game) |
-| 2️⃣ | Number Pattern Generator | Beginner | Loops, nested loops, console output | Java / Python | [View Code](#2-number-pattern-generator) |
-| 3️⃣ | Task Manager Console App (CRUD) | Intermediate | OOP, arrays/lists, CRUD operations | Java | [View Code](#3-task-manager-console-application-crud) |
-| 4️⃣ | Temperature Converter | Intermediate | Functions, control flow, arithmetic ops | Java / Python | [View Code](#4-temperature-converter) |
-| 5️⃣ | Persistent Task Manager (File I/O) | Advanced | File handling, data persistence, error handling | Java | [View Code](#5-persistent-task-manager-file-io) |
+| #  | Project Name | Level | Key Concepts | Tech Stack |
+|----|--------------|-------|--------------|------------|
+| 1️⃣ | Text-Based Game | Beginner | Conditional statements, user input, game logic | Java |
+| 2️⃣ | Number Pattern Generator | Beginner | Loops, nested loops, console output | Java |
+| 3️⃣ | Task Manager Console App (CRUD) | Intermediate | OOP, arrays/lists, CRUD operations | Java |
+| 4️⃣ | Temperature Converter | Intermediate | Functions, control flow, arithmetic ops | Java |
+| 5️⃣ | Persistent Task Manager (File I/O) | Advanced | File handling, data persistence, error handling | Java |
 
 ---
 
